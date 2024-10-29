@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sjk89470/kurly.git/static/css/main.94401910.css",
+    "main.js": "/sjk89470/kurly.git/static/js/main.61dd91de.js",
+    "index.html": "/sjk89470/kurly.git/index.html",
+    "main.94401910.css.map": "/sjk89470/kurly.git/static/css/main.94401910.css.map",
+    "main.61dd91de.js.map": "/sjk89470/kurly.git/static/js/main.61dd91de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94401910.css",
+    "static/js/main.61dd91de.js"
+  ]
+}
